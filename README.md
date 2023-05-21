@@ -26,7 +26,7 @@ The best algorithm for car price prediction will depend on the specific data set
 6. Use the model to predict the prices of new cars.
 
 
-# Datasets Iformation
+# Datasets Information
 ### Here are the explanations of the features in the car dataset:
 
 * **Car_Name:** The name of the car.
